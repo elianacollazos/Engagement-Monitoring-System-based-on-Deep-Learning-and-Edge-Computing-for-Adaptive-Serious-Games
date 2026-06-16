@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local datasets are too large for the repository.
+data/
+*.csv
